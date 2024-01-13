@@ -1,0 +1,77 @@
+| Lemma   | Context                                             | Label                                      |
+| plan    | The meticulously crafted plan, developed by the experienced team, ensured a seamless and successful product launch.          | Synset('plan.n.01')                       |
+| plan    | The comprehensive business plan outlined strategies for growth, attracting investors with its clarity and vision.        | Synset('plan.n.01')                       |
+| plan    | Collaborative planning among team members led to the execution of a well-thought-out plan, resulting in increased efficiency.      |   Synset('plan.n.01')                 |
+| plan      | The strategic marketing plan boosted sales and expanded the customer base, exceeding initial expectations.     | Synset('plan.n.01')                    |
+| plan      | The carefully devised retirement plan provided financial security and peace of mind for the future.        | Synset('plan.n.01')                      |
+| plan      | The project required a detailed plan for implementation, covering all aspects from design to execution.        | Synset('plan.n.02')           |
+| plan      | Having a contingency plan is essential in uncertain situations, ensuring readiness for unexpected challenges.      | Synset('plan.n.02')                        |
+| plan     | The lesson plan for the academic term covered a variety of educational topics, meeting curriculum requirements.       | Synset('plan.n.02')                        |
+| plan      | The urban development plan aimed to address infrastructure needs and improve the quality of life in the city.        |    Synset('plan.n.02')                        |
+| plan      | The marketing plan outlined the company's objectives and strategies for reaching the target audience.       | Synset('plan.n.02')                      |
+| plan      | The flawed plan, hastily put together without considering potential risks, resulted in project delays and dissatisfaction.        | Synset('plan.n.03')                        |
+| plan      | Ignoring critical details in the operational plan led to a series of errors and financial losses for the organization.   |  Synset('plan.n.03')                        | 
+| plan      | The inadequate emergency response plan failed to address potential safety issues during the crisis.  | Synset('plan.n.03')   |
+| plan     | A poorly executed marketing plan led to a decline in brand reputation and a loss of customer trust.  |   Synset('plan.n.03')  |
+| plan     | The outdated business plan failed to adapt to market changes, contributing to the company's decline.   | Synset('plan.n.03')   |
+| plan      | The flawed plan, hastily put together without considering potential risks, resulted in project delays and dissatisfaction.     | Synset('plan.n.03')                        |
+| climate | The mild climate of the coastal region made it an ideal destination for year-round outdoor activities.   | Synset('climate.n.01')                     |
+| climate | A sunny climate contributed to a cheerful atmosphere, lifting the spirits of the residents.   | Synset('climate.n.01')                    |
+| climate | The temperate climate of the mountainous area provided a picturesque backdrop for the quaint village.    | Synset('climate.n.01')                      |
+| climate | A pleasant and predictable climate attracted tourists to the tropical paradise for relaxing vacations.   |         Synset('climate.n.01')               |
+| climate | The Mediterranean climate created optimal conditions for cultivating a variety of crops.     | Synset('climate.n.01')                       |
+| climate |Scientists study the climate to understand weather patterns and their impact on the environment.       |  Synset('climate.n.02')                    |
+| climate | Climate data is crucial for environmental research, helping researchers analyze long-term trends.         |   Synset('climate.n.02')                  |
+| climate | The region experiences a temperate climate with distinct seasons, influencing local flora and fauna.        |  Synset('climate.n.02')                 |
+| climate | Climate fluctuations can impact ecosystems, requiring adaptive strategies for conservation.        |  Synset('climate.n.02')                    |
+| climate | The climate in this area is characterized by its distinct weather conditions throughout the year.        |  Synset('climate.n.02')                     |
+| climate | Extreme weather events are indicative of a changing climate, posing challenges for disaster preparedness.    |  Synset('climate.n.03')                   |
+| climate | The harsh climate in the desert makes survival challenging for both wildlife and human populations.        | Synset('climate.n.03')                     |
+| climate | Climate change poses a threat to global biodiversity, leading to the loss of habitats and species.        | Synset('climate.n.03')                     |
+| climate | The polluted air is a result of the industrial climate in the city, impacting public health.        | Synset('climate.n.03')                     |
+| climate | The unpredictable climate makes agricultural planning difficult, affecting crop yields and food production.      |        Synset('climate.n.03')              |
+| focus   | The athlete maintained focus throughout the competition, resulting in a personal best performance.    |  Synset('focus.n.01')                   |
+| focus  | A clear focus on customer satisfaction improved sales and fostered long-term relationships.    | Synset('focus.n.01')                       |
+| focus  | The team's unwavering focus on innovation led to the development of groundbreaking technologies.      | Synset('focus.n.01')                        |
+| focus   | Consistent focus on goals and objectives propelled the company to the forefront of the industry.       | Synset('focus.n.01')                           |
+| focus   | The disciplined focus on quality control ensured that the products met the highest standards.    |  Synset('focus.n.01')                      |
+| focus   | Adjust the camera focus for a sharper image and better visual clarity.    | Synset('focus.n.02')                       |
+| focus   | The discussion shifted focus to a new set of priorities as the project evolved.    | Synset('focus.n.02')                      |
+| focus   | The manual provides instructions on adjusting focus settings for optimal performance. | Synset('focus.n.02')                      |
+| focus   | The project's focus is to improve efficiency and streamline workflow processes.      |  Synset('focus.n.02')                   |
+| focus   | The academic focus of the course covers a broad range of topics in the field.     | Synset('focus.n.02')                      |
+| focus   | Lack of focus during the presentation led to misunderstandings and confusion among the audience.    | Synset('focus.n.03')                       |
+| focus   | External distractions can interfere with focus at work, reducing overall productivity.   | Synset('focus.n.03')                       |
+| focus   | Failing to maintain focus in class may negatively impact academic performance.    | Synset('focus.n.03')                       |
+| focus   | The blurry images were a result of improper camera focus, leading to dissatisfaction.     |    Synset('focus.n.03')                      |
+| focus   | Losing focus on safety protocols can lead to accidents and compromise workplace safety.   | Synset('focus.n.03')                       |
+| term    | Completing the academic term brought a sense of accomplishment and academic achievement.         | Synset('term.n.01')                        |
+| term    | A favorable loan term made homeownership more accessible for first-time buyers.     | Synset('term.n.01')                        |
+| term     | The long-term investment strategy yielded significant returns for the savvy investor. |     Synset('term.n.01')                 |
+| term     | Meeting the short-term goals set the stage for future success and growth.        |Synset('term.n.01')                        |
+| term     | The comprehensive business plan outlined strategies for the long-term success of the company.     | Synset('term.n.01')                     |
+| term    | The legal term of the contract is specified in the agreement between the parties.    | Synset('term.n.02')                       |
+| term     | The technical term may require clarification for those unfamiliar with the subject. |     Synset('term.n.02')                   |
+| term     | The term of office for the president is four years, as stipulated by the constitution.  | Synset('term.n.02')                     |
+| term     | The business term "ROI" stands for return on investment, a key metric in financial analysis.     | Synset('term.n.02')                        |
+| term    | The academic term is divided into semesters for better organization of courses.     | Synset('term.n.02')                      |
+| term    | The short-term solution only addressed the immediate issue but did not provide a long-lasting fix.     | Synset('term.n.03')                        |
+| term     | The legal term imposed severe penalties for non-compliance with contractual obligations.    | Synset('term.n.03')                        |
+| term     | The loan with unfavorable terms led to financial strain and difficulties for the borrower.   | Synset('term.n.03')                        |
+| term    | The negative impact of short-term thinking became evident over time, affecting the company's reputation.   |                        |
+| term     | The contractual terms were not favorable to the smaller party, resulting in a dispute.  | Synset('term.n.03')                        |
+| path    | The scenic path through the mountains offered breathtaking views of nature and wildlife.     | Synset('path.n.01')                        |
+| path   | The chosen career path brought fulfillment and satisfaction to the individual.   | Synset('path.n.01')                        |
+| path    | The educational path paved the way for future success, providing valuable skills and knowledge.     |    Synset('path.n.01')                 |
+| path    | The spiritual path provided a sense of purpose and inner peace for those who followed it.     | Synset('path.n.01')                        |
+| path    | The well-maintained walking path in the park became a popular spot for exercise and relaxation.         | Synset('path.n.01')                     |
+| path    | The hiking path is well-marked for visitors to explore the natural beauty of the area. | Synset('path.n.02')                       |
+| path    | The academic path requires dedication and hard work to achieve academic success.    |   Synset('path.n.02')                  |
+| path    | Exploring different career paths helps individuals make informed decisions about their future.    | Synset('path.n.02')                      |
+| path    | The project's focus is to improve efficiency and streamline workflow processes.| Synset('path.n.02')                        |
+| path    | The development path of the software involves various stages of coding and testing.  | Synset('path.n.02')                       |
+| path    | The neglected path was overgrown and difficult to traverse, leading to safety concerns.     | Synset('path.n.03')                            |
+| path    | The uncertain path ahead raised anxiety and uncertainty among the project team.  | Synset('path.n.03')                        |
+|path    | The destructive path of the storm left a trail of devastation and destruction.   | Synset('path.n.03')                        |
+| path   | The unethical path taken by the company resulted in legal consequences and public backlash.     | Synset('path.n.03')                        |
+| path    | The abandoned path led to isolation and loneliness for those who once walked it.      | Synset('path.n.03')                        |
